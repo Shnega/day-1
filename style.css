@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    body{
+    text-align: left;
+}
+p{
+    font-size: 13px;
+    color: black;
+    text-align: left;
+}
+img{
+    float: left;
+}
+video{
+    float: left;
+}
+.link{
+    text-decoration: dashed;
+    color: crimson;
+    font-size: larger;
+}
+#head{
+    background-color: green;
+}
